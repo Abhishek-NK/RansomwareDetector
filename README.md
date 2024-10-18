@@ -22,4 +22,4 @@ python
 
 ## Author
 
-- **Abhishek Nand Kumar** -------- [AbhishekNk1](https://github.com/AbhishekNk1)
+- **Abi Nand Kumar** -------- [Abi-NK](https://github.com/Abi-NK)
